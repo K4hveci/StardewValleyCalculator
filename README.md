@@ -21,24 +21,18 @@ An interactive, responsive web application built with **React**, **Tailwind CSS*
 *   **Localized Switching**: Switch between English and Turkish; the app automatically translates labels and maps selected item names.
 *   **Official Wiki Integration**: Dynamic external links redirect to the localized official Stardew Valley Wiki.
 
-### 🚀 How to Run & Deploy
+### 🚀 How to Run Locally
 
-**Run Locally:**
-1. Install dependencies:
-   ```bash
-   npm install
-   ```
-2. Start the development server:
-   ```bash
-   npm run dev
-   ```
-3. Open `http://localhost:5173/` in your browser.
-
-**Deploy to GitHub Pages:**
-Build and deploy to your remote repository:
-```bash
-npm run deploy
-```
+1.  Clone or navigate to the directory.
+2.  Install dependencies:
+    ```bash
+    npm install
+    ```
+3.  Run the development server:
+    ```bash
+    npm run dev
+    ```
+4.  Open `http://localhost:5173/` in your browser.
 
 ---
 
@@ -59,21 +53,15 @@ npm run deploy
 *   **Çift Dil Desteği**: İngilizce ve Türkçe arasında anında geçiş yapın (seçili ürün otomatik olarak diğer dile eşlenir).
 *   **Resmî Wiki Bağlantıları**: Aktif dile göre resmî Stardew Valley Wiki sayfasına doğrudan yönlendirme yapar.
 
-### 🚀 Kurulum ve Dağıtım
+### 🚀 Yerel Kurulum ve Çalıştırma
 
-**Yerel Olarak Çalıştırma:**
-1. Gerekli paketleri kurun:
-   ```bash
-   npm install
-   ```
-2. Geliştirici sunucusunu başlatın:
-   ```bash
-   npm run dev
-   ```
-3. Tarayıcınızda `http://localhost:5173/` adresini açın.
-
-**GitHub Pages'e Dağıtım:**
-Derleyin ve uzak deponuza dağıtın:
-```bash
-npm run deploy
-```
+1.  Proje dizinine gidin.
+2.  Gerekli paketleri kurun:
+    ```bash
+    npm install
+    ```
+3.  Geliştirici sunucusunu başlatın:
+    ```bash
+    npm run dev
+    ```
+4.  Tarayıcınızda `http://localhost:5173/` adresini açın.
