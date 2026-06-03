@@ -1,0 +1,334 @@
+Giriş Ögesi,Tür,Kalite,Giriş Ürün Satış Fiyatı,İşlenmiş Ürün Satış Fiyatı,Değer Artışı (g),Verimlilik (g/dakika),Yaklaşık g/gün [1]
+Acı Biber,Meyve,Normal,40,130,90,23,36
+Acı Biber,Meyve,Gümüş,50,130,80,20,32
+Acı Biber,Meyve,Altın,60,130,70,18,28
+Acı Biber,Meyve,İridyum,80,130,50,13,20
+Ahududu,Meyve,Normal,5,60,55,14,22
+Ahududu,Meyve,Gümüş,6,60,54,14,22
+Ahududu,Meyve,Altın,7,60,53,13,21
+Ahududu,Meyve,İridyum,10,60,50,13,20
+Ayı'nın Bilgeliği ile Ahududu,Meyve,Normal,15,60,45,11,18
+Ayı'nın Bilgeliği ile Ahududu,Meyve,Gümüş,18,60,42,11,17
+Ayı'nın Bilgeliği ile Ahududu,Meyve,Altın,21,60,39,10,16
+Ayı'nın Bilgeliği ile Ahududu,Meyve,İridyum,30,60,30,8,12
+Ananas,Meyve,Normal,300,650,350,88,140
+Ananas,Meyve,Gümüş,375,650,275,69,110
+Ananas,Meyve,Altın,450,650,200,50,80
+Ananas,Meyve,İridyum,600,650,50,13,20
+Baharat Meyvesi,Meyve,Normal,80,210,130,33,52
+Baharat Meyvesi,Meyve,Gümüş,100,210,110,28,44
+Baharat Meyvesi,Meyve,Altın,120,210,90,23,36
+Baharat Meyvesi,Meyve,İridyum,160,210,50,13,20
+Bal Kabağı,Sebze,Normal,320,690,370,93,148
+Bal Kabağı,Sebze,Gümüş,400,690,290,73,116
+Bal Kabağı,Sebze,Altın,480,690,210,53,84
+Bal Kabağı,Sebze,İridyum,640,690,50,13,20
+Böğürtlen,Meyve,Normal,20,90,70,18,28
+Böğürtlen,Meyve,Gümüş,25,90,65,16,26
+Böğürtlen,Meyve,Altın,30,90,60,15,24
+Böğürtlen,Meyve,İridyum,40,90,50,13,20
+Ayı'nın Bilgeliği ile Böğürtlen,Meyve,Normal,60,90,30,8,12
+Ayı'nın Bilgeliği ile Böğürtlen,Meyve,Gümüş,75,90,15,4,6
+Ayı'nın Bilgeliği ile Böğürtlen,Meyve,Altın,90,90,0,0,0
+Ayı'nın Bilgeliği ile Böğürtlen,Meyve,İridyum,120,90,-30,-8,-13
+Brokoli,Sebze,Normal,70,190,120,30,48
+Brokoli,Sebze,Gümüş,87,190,103,26,41
+Brokoli,Sebze,Altın,105,190,85,21,34
+Brokoli,Sebze,İridyum,140,190,50,13,20
+Buğday,Sebze,Normal,25,100,75,19,30
+Buğday,Sebze,Gümüş,31,100,69,17,28
+Buğday,Sebze,Altın,37,100,63,16,25
+Buğday,Sebze,İridyum,50,100,50,13,20
+Çakaleriği,Meyve,Normal,80,210,130,33,52
+Çakaleriği,Meyve,Gümüş,100,210,110,28,44
+Çakaleriği,Meyve,Altın,120,210,90,23,36
+Çakaleriği,Meyve,İridyum,160,210,50,13,20
+Çay Yaprakları,Sebze,Normal,50,150,100,25,40
+Çilek,Meyve,Normal,120,290,170,43,68
+Çilek,Meyve,Gümüş,150,290,140,35,56
+Çilek,Meyve,Altın,180,290,110,28,44
+Çilek,Meyve,İridyum,240,290,50,13,20
+Çin Lahanası,Sebze,Normal,80,210,130,33,52
+Çin Lahanası,Sebze,Gümüş,100,210,110,28,44
+Çin Lahanası,Sebze,Altın,120,210,90,23,36
+Çin Lahanası,Sebze,İridyum,160,210,50,13,20
+Domates,Sebze,Normal,60,170,110,28,44
+Domates,Sebze,Gümüş,75,170,95,24,38
+Domates,Sebze,Altın,90,170,80,20,32
+Domates,Sebze,İridyum,120,170,50,13,20
+Eğrelti Otu,Sebze,Normal,90,230,140,35,56
+Eğrelti Otu,Sebze,Gümüş,112,230,118,30,47
+Eğrelti Otu,Sebze,Altın,135,230,95,24,38
+Eğrelti Otu,Sebze,İridyum,180,230,50,13,20
+Elma,Meyve,Normal,100,250,150,38,60
+Elma,Meyve,Gümüş,125,250,125,31,50
+Elma,Meyve,Altın,150,250,100,25,40
+Elma,Meyve,İridyum,200,250,50,13,20
+Enginar,Sebze,Normal,160,370,210,53,84
+Enginar,Sebze,Gümüş,200,370,170,43,68
+Enginar,Sebze,Altın,240,370,130,33,52
+Enginar,Sebze,İridyum,320,370,50,13,20
+Eski Meyve,Meyve,Normal,550,1150,600,150,240
+Eski Meyve,Meyve,Gümüş,687,1150,463,116,185
+Eski Meyve,Meyve,Altın,825,1150,325,81,130
+Eski Meyve,Meyve,İridyum,1100,1150,50,13,20
+Fındık,Toplayıcılık,Normal,90,230,140,35,56
+Fındık,Toplayıcılık,Gümüş,112,230,118,30,47
+Fındık,Toplayıcılık,Altın,135,230,95,24,38
+Fındık,Toplayıcılık,İridyum,180,230,50,13,20
+Gölevez Kökü,Sebze,Normal,100,250,150,38,60
+Gölevez Kökü,Sebze,Gümüş,125,250,125,31,50
+Gölevez Kökü,Sebze,Altın,150,250,100,25,40
+Gölevez Kökü,Sebze,İridyum,200,250,50,13,20
+Havuç,Sebze,Normal,35,120,85,21,34
+Havuç,Sebze,Gümüş,43,120,77,19,31
+Havuç,Sebze,Altın,52,120,68,17,27
+Havuç,Sebze,İridyum,70,120,50,13,20
+Hindistan Cevizi,Meyve,Normal,100,250,150,38,60
+Hindistan Cevizi,Meyve,Gümüş,125,250,125,31,50
+Hindistan Cevizi,Meyve,Altın,150,250,100,25,40
+Hindistan Cevizi,Meyve,İridyum,200,250,50,13,20
+Horozibiği,Sebze,Normal,150,350,200,50,80
+Horozibiği,Sebze,Gümüş,187,350,163,41,65
+Horozibiği,Sebze,Altın,225,350,125,31,50
+Horozibiği,Sebze,İridyum,300,350,50,13,20
+Horozmantarı,Toplayıcılık,Normal,160,370,210,53,84
+Horozmantarı,Toplayıcılık,Gümüş,200,370,170,43,68
+Horozmantarı,Toplayıcılık,Altın,240,370,130,33,52
+Horozmantarı,Toplayıcılık,İridyum,320,370,50,13,20
+Kaktüs Meyvesi,Meyve,Normal,75,200,125,31,50
+Kaktüs Meyvesi,Meyve,Gümüş,93,200,107,27,43
+Kaktüs Meyvesi,Meyve,Altın,112,200,88,22,35
+Kaktüs Meyvesi,Meyve,İridyum,150,200,50,13,20
+Kara Hindiba,Toplayıcılık,Normal,40,130,90,23,36
+Kara Hindiba,Toplayıcılık,Gümüş,50,130,80,20,32
+Kara Hindiba,Toplayıcılık,Altın,60,130,70,18,28
+Kara Hindiba,Toplayıcılık,İridyum,80,130,50,13,20
+Kar Patatesi,Toplayıcılık,Normal,100,250,150,38,60
+Kar Patatesi,Toplayıcılık,Gümüş,125,250,125,31,50
+Kar Patatesi,Toplayıcılık,Altın,150,250,100,25,40
+Kar Patatesi,Toplayıcılık,İridyum,200,250,50,13,20
+Karnabahar,Sebze,Normal,175,400,225,56,90
+Karnabahar,Sebze,Gümüş,218,400,182,46,73
+Karnabahar,Sebze,Altın,262,400,138,35,55
+Karnabahar,Sebze,İridyum,350,400,50,13,20
+Kavun,Meyve,Normal,250,550,300,75,120
+Kavun,Meyve,Gümüş,312,550,238,60,95
+Kavun,Meyve,Altın,375,550,175,44,70
+Kavun,Meyve,İridyum,500,550,50,13,20
+Kayısı,Meyve,Normal,50,150,100,25,40
+Kayısı,Meyve,Gümüş,62,150,88,22,35
+Kayısı,Meyve,Altın,75,150,75,19,30
+Kayısı,Meyve,İridyum,100,150,50,13,20
+Kırmızı Lahana,Sebze,Normal,260,570,310,78,124
+Kırmızı Lahana,Sebze,Gümüş,325,570,245,61,98
+Kırmızı Lahana,Sebze,Altın,390,570,180,45,72
+Kırmızı Lahana,Sebze,İridyum,520,570,50,13,20
+Kış Kavunu,Meyve,Normal,60,170,110,28,44
+Kış Kavunu,Meyve,Gümüş,75,170,95,24,38
+Kış Kavunu,Meyve,Altın,90,170,80,20,32
+Kış Kavunu,Meyve,İridyum,120,170,50,13,20
+Kış Kökü,Toplayıcılık,Normal,70,190,120,30,48
+Kış Kökü,Toplayıcılık,Gümüş,87,190,103,26,41
+Kış Kökü,Toplayıcılık,Altın,105,190,85,21,34
+Kış Kökü,Toplayıcılık,İridyum,140,190,50,13,20
+Kızılcık,Meyve,Normal,75,200,125,31,50
+Kızılcık,Meyve,Gümüş,93,200,107,27,43
+Kızılcık,Meyve,Altın,112,200,88,22,35
+Kızılcık,Meyve,İridyum,150,200,50,13,20
+Kiraz,Meyve,Normal,80,210,130,33,52
+Kiraz,Meyve,Gümüş,100,210,110,28,44
+Kiraz,Meyve,Altın,120,210,90,23,36
+Kiraz,Meyve,İridyum,160,210,50,13,20
+Kristal Meyve,Meyve,Normal,150,350,200,50,80
+Kristal Meyve,Meyve,Gümüş,187,350,163,41,65
+Kristal Meyve,Meyve,Altın,225,350,125,31,50
+Kristal Meyve,Meyve,İridyum,300,350,50,13,20
+Kuzumantarı,Toplayıcılık,Normal,150,350,200,50,80
+Kuzumantarı,Toplayıcılık,Gümüş,187,350,163,41,65
+Kuzumantarı,Toplayıcılık,Altın,225,350,125,31,50
+Kuzumantarı,Toplayıcılık,İridyum,300,350,50,13,20
+Lahana,Sebze,Normal,110,270,160,40,64
+Lahana,Sebze,Gümüş,137,270,133,33,53
+Lahana,Sebze,Altın,165,270,105,26,42
+Lahana,Sebze,İridyum,220,270,50,13,20
+Magma Mantarı,Toplayıcılık,Normal,400,850,450,113,180
+Magma Mantarı,Toplayıcılık,Gümüş,500,850,350,88,140
+Magma Mantarı,Toplayıcılık,Altın,600,850,250,63,100
+Magma Mantarı,Toplayıcılık,İridyum,800,850,50,13,20
+Mağara Havucu,Toplayıcılık,Normal,25,100,75,19,30
+Mango,Meyve,Normal,130,310,180,45,72
+Mango,Meyve,Gümüş,162,310,148,37,59
+Mango,Meyve,Altın,195,310,115,29,46
+Mango,Meyve,İridyum,260,310,50,13,20
+Mantar,Toplayıcılık,Normal,40,130,90,23,36
+Mantar,Toplayıcılık,Gümüş,50,130,80,20,32
+Mantar,Toplayıcılık,Altın,60,130,70,18,28
+Mantar,Toplayıcılık,İridyum,80,130,50,13,20
+Mısır,Sebze,Normal,50,150,100,25,40
+Mısır,Sebze,Gümüş,62,150,88,22,35
+Mısır,Sebze,Altın,75,150,75,19,30
+Mısır,Sebze,İridyum,100,150,50,13,20
+Mor Mantar,Toplayıcılık,Normal,250,550,300,75,120
+Mor Mantar,Toplayıcılık,Gümüş,312,550,238,60,95
+Mor Mantar,Toplayıcılık,Altın,375,550,175,44,70
+Mor Mantar,Toplayıcılık,İridyum,500,550,50,13,20
+Muz,Meyve,Normal,150,350,200,50,80
+Muz,Meyve,Gümüş,187,350,163,41,65
+Muz,Meyve,Altın,225,350,125,31,50
+Muz,Meyve,İridyum,300,350,50,13,20
+Nar,Meyve,Normal,140,330,190,48,76
+Nar,Meyve,Gümüş,175,330,155,39,62
+Nar,Meyve,Altın,210,330,120,30,48
+Nar,Meyve,İridyum,280,330,50,13,20
+Öğütülmemiş Pirinç,Sebze,Normal,30,110,80,20,32
+Öğütülmemiş Pirinç,Sebze,Gümüş,37,110,73,18,29
+Öğütülmemiş Pirinç,Sebze,Altın,45,110,65,16,26
+Öğütülmemiş Pirinç,Sebze,İridyum,60,110,50,13,20
+Pancar,Sebze,Normal,100,250,150,38,60
+Pancar,Sebze,Gümüş,125,250,125,31,50
+Pancar,Sebze,Altın,150,250,100,25,40
+Pancar,Sebze,İridyum,200,250,50,13,20
+Patates,Sebze,Normal,80,210,130,33,52
+Patates,Sebze,Gümüş,100,210,110,28,44
+Patates,Sebze,Altın,120,210,90,23,36
+Patates,Sebze,İridyum,160,210,50,13,20
+Patlıcan,Sebze,Normal,60,170,110,28,44
+Patlıcan,Sebze,Gümüş,75,170,95,24,38
+Patlıcan,Sebze,Altın,90,170,80,20,32
+Patlıcan,Sebze,İridyum,120,170,50,13,20
+Pırasa,Toplayıcılık,Normal,60,170,110,28,44
+Pırasa,Toplayıcılık,Gümüş,75,170,95,24,38
+Pırasa,Toplayıcılık,Altın,90,170,80,20,32
+Pırasa,Toplayıcılık,İridyum,120,170,50,13,20
+Portakal,Meyve,Normal,100,250,150,38,60
+Portakal,Meyve,Gümüş,125,250,125,31,50
+Portakal,Meyve,Altın,150,250,100,25,40
+Portakal,Meyve,İridyum,200,250,50,13,20
+Sarımsak,Sebze,Normal,60,170,110,28,44
+Sarımsak,Sebze,Gümüş,75,170,95,24,38
+Sarımsak,Sebze,Altın,90,170,80,20,32
+Sarımsak,Sebze,İridyum,120,170,50,13,20
+Şeftali,Meyve,Normal,140,330,190,48,76
+Şeftali,Meyve,Gümüş,175,330,155,39,62
+Şeftali,Meyve,Altın,210,330,120,30,48
+Şeftali,Meyve,İridyum,280,330,50,13,20
+Şerbetçi Otu,Sebze,Normal,25,100,75,19,30
+Şerbetçi Otu,Sebze,Gümüş,31,100,69,17,28
+Şerbetçi Otu,Sebze,Altın,37,100,63,16,25
+Şerbetçi Otu,Sebze,İridyum,50,100,50,13,20
+Tatlı Patates,Sebze,Normal,160,370,210,53,84
+Tatlı Patates,Sebze,Gümüş,200,370,170,43,68
+Tatlı Patates,Sebze,Altın,240,370,130,33,52
+Tatlı Patates,Sebze,İridyum,320,370,50,13,20
+Turp,Sebze,Normal,90,230,140,35,56
+Turp,Sebze,Gümüş,112,230,118,30,47
+Turp,Sebze,Altın,135,230,95,24,38
+Turp,Sebze,İridyum,180,230,50,13,20
+Uşkun,Meyve,Normal,220,490,270,68,108
+Uşkun,Meyve,Gümüş,275,490,215,54,86
+Uşkun,Meyve,Altın,330,490,160,40,64
+Uşkun,Meyve,İridyum,440,490,50,13,20
+Üzüm,Meyve,Normal,80,210,130,33,52
+Üzüm,Meyve,Gümüş,100,210,110,28,44
+Üzüm,Meyve,Altın,120,210,90,23,36
+Üzüm,Meyve,İridyum,160,210,50,13,20
+Yaban Havucu,Sebze,Normal,35,120,85,21,34
+Yaban Havucu,Sebze,Gümüş,43,120,77,19,31
+Yaban Havucu,Sebze,Altın,52,120,68,17,27
+Yaban Havucu,Sebze,İridyum,70,120,50,13,20
+Yaban Mersini,Meyve,Normal,50,150,100,25,40
+Yaban Mersini,Meyve,Gümüş,62,150,88,22,35
+Yaban Mersini,Meyve,Altın,75,150,75,19,30
+Yaban Mersini,Meyve,İridyum,100,150,50,13,20
+Yabani Bayır Turpu,Toplayıcılık,Normal,50,150,100,25,40
+Yabani Bayır Turpu,Toplayıcılık,Gümüş,62,150,88,22,35
+Yabani Bayır Turpu,Toplayıcılık,Altın,75,150,75,19,30
+Yabani Bayır Turpu,Toplayıcılık,İridyum,100,150,50,13,20
+Yaz Kabağı,Sebze,Normal,45,140,95,24,38
+Yaz Kabağı,Sebze,Gümüş,56,140,84,21,34
+Yaz Kabağı,Sebze,Altın,67,140,73,18,29
+Yaz Kabağı,Sebze,İridyum,90,140,50,13,20
+Yeşil Fasulye,Sebze,Normal,40,130,90,23,36
+Yeşil Fasulye,Sebze,Gümüş,50,130,80,20,32
+Yeşil Fasulye,Sebze,Altın,60,130,70,18,28
+Yeşil Fasulye,Sebze,İridyum,80,130,50,13,20
+Yeşil Soğan,Toplayıcılık,Normal,8,66,58,15,23
+Yeşil Soğan,Toplayıcılık,Gümüş,10,66,56,14,22
+Yeşil Soğan,Toplayıcılık,Altın,12,66,54,14,22
+Yeşil Soğan,Toplayıcılık,İridyum,16,66,50,13,20
+Yeşil Soğan Ustalığı ile Yeşil Soğan,Toplayıcılık,Normal,40,66,26,7,10
+Yeşil Soğan Ustalığı ile Yeşil Soğan,Toplayıcılık,Gümüş,50,66,16,4,6
+Yeşil Soğan Ustalığı ile Yeşil Soğan,Toplayıcılık,Altın,60,66,6,2,2
+Yeşil Soğan Ustalığı ile Yeşil Soğan,Toplayıcılık,İridyum,80,66,-14,-3,-6
+Yıldızmeyvesi,Meyve,Normal,750,1550,800,200,320
+Yıldızmeyvesi,Meyve,Gümüş,937,1550,613,153,245
+Yıldızmeyvesi,Meyve,Altın,1125,1550,425,106,170
+Yıldızmeyvesi,Meyve,İridyum,1500,1550,50,13,20
+Zencefil,Toplayıcılık,Normal,60,170,110,28,44
+Qi Meyvesi,Meyve,Normal,1,52,51,13,20
+AhtapotBalık Yumurtası,Balık Yumurtası,Normal,105,210,105,26,42
+AkrepbalığıBalık Yumurtası,Balık Yumurtası,Normal,105,210,105,26,42
+Alacakaranlık SazanıBalık Yumurtası,Balık Yumurtası,Normal,105,210,105,26,42
+AslanbalığıBalık Yumurtası,Balık Yumurtası,Normal,80,160,80,20,32
+Balçık İstavridiBalık Yumurtası,Balık Yumurtası,Normal,80,160,80,20,32
+Balon BalığıBalık Yumurtası,Balık Yumurtası,Normal,130,260,130,33,52
+Barbunya BalığıBalık Yumurtası,Balık Yumurtası,Normal,67,134,67,17,27
+Boşluk SomonuBalık Yumurtası,Balık Yumurtası,Normal,105,210,105,26,42
+Büyük DenizhıyarıBalık Yumurtası,Balık Yumurtası,Normal,155,310,155,39,62
+BuzulbalıkBalık Yumurtası,Balık Yumurtası,Normal,530,1060,530,133,212
+Buzul ÇekirdekbalığıBalık Yumurtası,Balık Yumurtası,Normal,280,560,280,70,112
+Deniz TarağıBalık Yumurtası,Balık Yumurtası,Normal,55,110,55,14,22
+Deniz SalyangozuBalık Yumurtası,Balık Yumurtası,Normal,40,80,40,10,16
+DenizhıyarıBalık Yumurtası,Balık Yumurtası,Normal,67,134,67,17,27
+DenizkestanesiBalık Yumurtası,Balık Yumurtası,Normal,110,220,110,28,44
+DipbalığıBalık Yumurtası,Balık Yumurtası,Normal,90,180,90,23,36
+EfsaneBalık Yumurtası,Balık Yumurtası,Normal,2530,5060,2530,633,1012
+FenerbalığıBalık Yumurtası,Balık Yumurtası,Normal,480,960,480,120,192
+GüneşbalığıBalık Yumurtası,Balık Yumurtası,Normal,45,90,45,11,18
+HamsiBalık Yumurtası,Balık Yumurtası,Normal,45,90,45,11,18
+HayaletbalığıBalık Yumurtası,Balık Yumurtası,Normal,52,104,52,13,21
+HortlakbalığıBalık Yumurtası,Balık Yumurtası,Normal,140,280,140,35,56
+IstakozBalık Yumurtası,Balık Yumurtası,Normal,90,180,90,23,36
+İğnelivatozBalık Yumurtası,Balık Yumurtası,Normal,120,240,120,30,48
+İri Ağızlı LevrekBalık Yumurtası,Balık Yumurtası,Normal,80,160,80,20,32
+İstiridyeBalık Yumurtası,Balık Yumurtası,Normal,50,100,50,13,20
+KaplanbalığıBalık Yumurtası,Balık Yumurtası,Normal,105,210,105,26,42
+KaridesBalık Yumurtası,Balık Yumurtası,Normal,60,120,60,15,24
+KayabalığıBalık Yumurtası,Balık Yumurtası,Normal,180,360,180,45,72
+KedibalığıBalık Yumurtası,Balık Yumurtası,Normal,130,260,130,33,52
+KefalBalık Yumurtası,Balık Yumurtası,Normal,55,110,55,14,22
+KerevitBalık Yumurtası,Balık Yumurtası,Normal,67,134,67,17,27
+Kırlangıç BalığıBalık Yumurtası,Balık Yumurtası,Normal,55,110,55,14,22
+KızılbalıkBalık Yumurtası,Balık Yumurtası,Normal,780,1560,780,195,312
+Kömür BalığıBalık Yumurtası,Balık Yumurtası,Normal,82,164,82,21,33
+KorkakbalıkBalık Yumurtası,Balık Yumurtası,Normal,67,134,67,17,27
+Kum MidyesiBalık Yumurtası,Balık Yumurtası,Normal,55,110,55,14,22
+KumbalığıBalık Yumurtası,Balık Yumurtası,Normal,67,134,67,17,27
+Lav YılanbalığıBalık Yumurtası,Balık Yumurtası,Normal,380,760,380,95,152
+LekebalığıBalık Yumurtası,Balık Yumurtası,Normal,280,560,280,70,112
+Mavi DiskusBalık Yumurtası,Balık Yumurtası,Normal,90,180,90,23,36
+MercanbalığıBalık Yumurtası,Balık Yumurtası,Normal,52,104,52,13,21
+MersinbalığıBalık Yumurtası,Balık Yumurtası,Normal,130,500,370,62,99
+MidyeBalık Yumurtası,Balık Yumurtası,Normal,45,90,45,11,18
+OrkinozBalık Yumurtası,Balık Yumurtası,Normal,67,134,67,17,27
+PisibalığıBalık Yumurtası,Balık Yumurtası,Normal,70,140,70,18,28
+Renkli AlabalıkBalık Yumurtası,Balık Yumurtası,Normal,62,124,62,16,25
+Ringa BalığıBalık Yumurtası,Balık Yumurtası,Normal,45,90,45,11,18
+SalyangozBalık Yumurtası,Balık Yumurtası,Normal,62,124,62,16,25
+SardalyaBalık Yumurtası,Balık Yumurtası,Normal,50,100,50,13,20
+SazanbalığıBalık Yumurtası,Balık Yumurtası,Normal,45,90,45,11,18
+Somon BalığıBalık Yumurtası,Balık Yumurtası,Normal,67,134,67,17,27
+Tatlısu LevreğiBalık Yumurtası,Balık Yumurtası,Normal,57,114,57,14,23
+TaşbalığıBalık Yumurtası,Balık Yumurtası,Normal,105,210,105,26,42
+TilapiBalık Yumurtası,Balık Yumurtası,Normal,67,134,67,17,27
+TirsiBalık Yumurtası,Balık Yumurtası,Normal,60,120,60,15,24
+Ton BalığıBalık Yumurtası,Balık Yumurtası,Normal,80,160,80,20,32
+Türeşik SazanbalığıBalık Yumurtası,Balık Yumurtası,Normal,530,1060,530,133,212
+Turna BalığıBalık Yumurtası,Balık Yumurtası,Normal,80,160,80,20,32
+TuruncubalıkBalık Yumurtası,Balık Yumurtası,Normal,80,160,80,20,32
+Ufak Ağızlı LevrekBalık Yumurtası,Balık Yumurtası,Normal,55,110,55,14,22
+YassıbalıkBalık Yumurtası,Balık Yumurtası,Normal,80,160,80,20,32
+YayınbalığıBalık Yumurtası,Balık Yumurtası,Normal,67,134,67,17,27
+YengeçBalık Yumurtası,Balık Yumurtası,Normal,80,160,80,20,32
+YılanbalığıBalık Yumurtası,Balık Yumurtası,Normal,72,144,72,18,29

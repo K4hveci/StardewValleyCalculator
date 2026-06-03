@@ -1,0 +1,173 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;600;700&family=Outfit:wght@300;400;500;600;700&display=swap');
+
+@import "tailwindcss";
+
+@theme {
+  --color-bg-primary: var(--bg-primary);
+  --color-bg-secondary: var(--bg-secondary);
+  --color-text-primary: var(--text-primary);
+  --color-text-secondary: var(--text-secondary);
+  --color-accent: var(--accent);
+  --color-accent-hover: var(--accent-hover);
+  --color-theme-border: var(--border);
+  --color-theme-card-border: var(--card-border);
+  --color-winner-border: var(--winner-border);
+  --color-winner-bg: var(--winner-bg);
+
+  --font-heading: 'Fredoka', sans-serif;
+  --font-sans: 'Outfit', sans-serif;
+}
+
+:root {
+  font-family: 'Outfit', sans-serif;
+  transition: background-color 0.4s ease, color 0.4s ease;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Fredoka', sans-serif;
+}
+
+/* Stardew Valley NPC Themes definitions */
+
+.theme-stardew {
+  --bg-primary: #FAF6EB;
+  --bg-secondary: #F1E5D1;
+  --text-primary: #4e3629;
+  --text-secondary: #805c48;
+  --accent: #d48325;
+  --accent-hover: #b26c1c;
+  --border: #decbb3;
+  --card-border: #b89e7e;
+  --winner-border: #22c55e;
+  --winner-bg: rgba(34, 197, 94, 0.06);
+}
+
+.theme-abigail {
+  --bg-primary: #161127;
+  --bg-secondary: #271f3f;
+  --text-primary: #f5f3ff;
+  --text-secondary: #baa6ea;
+  --accent: #905cf6;
+  --accent-hover: #a78bfa;
+  --border: #3d2f65;
+  --card-border: #5b4b93;
+  --winner-border: #22c55e;
+  --winner-bg: rgba(34, 197, 94, 0.12);
+}
+
+.theme-sebastian {
+  --bg-primary: #111116;
+  --bg-secondary: #1d1e26;
+  --text-primary: #f1f3f9;
+  --text-secondary: #9aa0b5;
+  --accent: #4f46e5;
+  --accent-hover: #6366f1;
+  --border: #2c2d3a;
+  --card-border: #424559;
+  --winner-border: #10b981;
+  --winner-bg: rgba(16, 185, 129, 0.12);
+}
+
+.theme-emily {
+  --bg-primary: #ecfeff;
+  --bg-secondary: #cffafe;
+  --text-primary: #0f766e;
+  --text-secondary: #0d9488;
+  --accent: #ef4444;
+  --accent-hover: #dc2626;
+  --border: #99f6e4;
+  --card-border: #2dd4bf;
+  --winner-border: #16a34a;
+  --winner-bg: rgba(22, 163, 74, 0.08);
+}
+
+.theme-leah {
+  --bg-primary: #FAF6F0;
+  --bg-secondary: #EDE4D5;
+  --text-primary: #1C3E24;
+  --text-secondary: #3D6646;
+  --accent: #854d0e;
+  --accent-hover: #a16207;
+  --border: #dcc8b1;
+  --card-border: #166534;
+  --winner-border: #22c55e;
+  --winner-bg: rgba(34, 197, 94, 0.06);
+}
+
+.theme-penny {
+  --bg-primary: #f0fdf4;
+  --bg-secondary: #dcfce7;
+  --text-primary: #14532d;
+  --text-secondary: #166534;
+  --accent: #ea580c;
+  --accent-hover: #f97316;
+  --border: #bbf7d0;
+  --card-border: #86efac;
+  --winner-border: #22c55e;
+  --winner-bg: rgba(34, 197, 94, 0.06);
+}
+
+.theme-robin {
+  --bg-primary: #FEFAF6;
+  --bg-secondary: #FCEFE4;
+  --text-primary: #451E04;
+  --text-secondary: #7C390F;
+  --accent: #dc2626;
+  --accent-hover: #ef4444;
+  --border: #f6d6bf;
+  --card-border: #b45309;
+  --winner-border: #22c55e;
+  --winner-bg: rgba(34, 197, 94, 0.06);
+}
+
+.theme-sam {
+  --bg-primary: #FFFDF5;
+  --bg-secondary: #FEF4D5;
+  --text-primary: #1e3a8a;
+  --text-secondary: #2563eb;
+  --accent: #ea580c;
+  --accent-hover: #f97316;
+  --border: #fde68a;
+  --card-border: #fcd34d;
+  --winner-border: #22c55e;
+  --winner-bg: rgba(34, 197, 94, 0.06);
+}
+
+.theme-lewis {
+  --bg-primary: #0a3321;
+  --bg-secondary: #11462f;
+  --text-primary: #fef08a;
+  --text-secondary: #fde047;
+  --accent: #ca8a04;
+  --accent-hover: #eab308;
+  --border: #1a5c3e;
+  --card-border: #ca8a04;
+  --winner-border: #22c55e;
+  --winner-bg: rgba(34, 197, 94, 0.12);
+}
+
+/* Custom Scrollbars */
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  background: var(--bg-primary);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--border);
+  border-radius: 5px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--accent);
+}
+
+/* General transitions */
+.transition-theme {
+  transition: background-color 0.4s ease, border-color 0.4s ease, color 0.4s ease, box-shadow 0.4s ease;
+}
+
+/* Pixel-art border styles for Stardew-theme card styling */
+.pixel-border {
+  border-width: 3px;
+  border-style: solid;
+}
