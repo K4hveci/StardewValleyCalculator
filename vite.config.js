@@ -5,5 +5,5 @@ import tailwindcss from '@tailwindcss/vite'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react(), tailwindcss()],
-  base: '/k4hveci.github.io/StardewValleyCalculator/', // Add relative base path for GitHub Pages deployment
+  base: '/StardewValleyCalculator/', // Add relative base path for GitHub Pages deployment
 })
